@@ -2,8 +2,8 @@
 
 I am an Automation Software Engineer with a passion for DevOps, CI/CD, and Test Automation. Here’s a bit about me:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on Permission-popup-Automation Project
+- 🌱 I’m currently learning Automation
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about Automation
 - 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendrakumar2001/)
